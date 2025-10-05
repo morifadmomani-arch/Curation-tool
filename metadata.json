@@ -1,0 +1,5 @@
+{
+  "name": "CMS Curation Tool",
+  "description": "A comprehensive Content Management System for curation tasks including a playlist manager, carousel builder, and analytics dashboard.",
+  "requestFramePermissions": []
+}
